@@ -63,24 +63,35 @@ export default function App() {
   ];
 
   const screenshots = [
+     demodata5,
+     demodata3,
+     demodata7,
+     demodata2,
+     demodata12,
+      demodata16,
+      demodata17,
+       demodata18,
+       
+       demodata9,
     demodata1,
-    demodata2,
-    demodata3,
-    demodata4,
-    demodata5,
     demodata6,
-    demodata7,
-    demodata8,
-    demodata9,
+    
+    
+    demodata4,
+   demodata14,
+    
+    
+    
+    
     demodata10,
-    demodata11,
-    demodata12,
+    
+    
     demodata13,
-    demodata14,
+    
     demodata15,
-    demodata16,
-    demodata17,
-    demodata18,
+   
+    
+   
   ];
 
   return (
