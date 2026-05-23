@@ -107,7 +107,7 @@ export default function App() {
 
             <div>
               <h1 className="text-2xl font-black">
-                Nexiquil
+                Restodesk pro
               </h1>
 
               <p className="text-zinc-500 text-sm">
@@ -501,7 +501,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-10 items-center justify-between">
           <div>
             <h3 className="text-3xl font-black mb-3">
-              Nexiquil
+              Restodesk pro
             </h3>
 
             <p className="text-zinc-500">
